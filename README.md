@@ -1,6 +1,8 @@
 # Startin_point
 
 - basic github repo
+- AI genetared images
+- videos clips ran throught lumalabs.ai downdload for results
 
 ## Files in this repository:
 
