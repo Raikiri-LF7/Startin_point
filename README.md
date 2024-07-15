@@ -1,2 +1,3 @@
 # Startin_point
--basic github repo
+- basic github repo
+![Alt text](URL_of_your_image)
